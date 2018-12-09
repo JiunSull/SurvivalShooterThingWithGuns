@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{CA53DD4D-3B9B-6167-CFEA-CF62006F54D4}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Complete-Game/Scripts/Enemy/EnemyAttack.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Managers/ScoreManager.cs" Line="16" Column="19" />
+      <File FileName="Assets/Scripts/Enemy/EnemyHealth.cs" Line="65" Column="34" />
+      <File FileName="Assets/Scripts/Player/PlayerHealth.cs" Line="22" Column="17" />
+      <File FileName="Assets/Scripts/Enemy/EnemyAttack.cs" Line="20" Column="59" />
+      <File FileName="Assets/Scripts/Managers/EnemyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Complete-Game/Scripts/Player/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemyMovement.cs" Line="16" Column="48" />
+      <File FileName="Assets/_Complete-Game/Scripts/Enemy/EnemyAttack.cs" Line="65" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
